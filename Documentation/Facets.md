@@ -2,6 +2,11 @@
 
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
 //test commit from new documentation brancgh
+//stashing tets
+
+//some
+
+//committss
 
 There are basically three kinds of facet queries:
 
